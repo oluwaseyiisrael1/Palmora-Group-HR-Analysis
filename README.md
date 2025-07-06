@@ -99,3 +99,4 @@ This Power BI dashboard was developed to help Palmoria Group identify and addres
 
 ## ✍️ Prepared by:
 Oluwaseyi Israel (HR Analytics Consultant) For DSA Data Analysis Final Project
+🔗 https://github.com/oluwaseyiisrael1/Palmora-Group-HR-Analysis
